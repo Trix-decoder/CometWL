@@ -1,7 +1,7 @@
 return {
-  ["rgfrhfghfgjfgh"] = {
-    TagText = "COMET SCRIPTER",
-    TagColor = Color3.fromRGB(255,65,65)
+  ["tableeh27xnaq"] = {
+    TagText = "VAPE OWNER",
+    TagColor = Color3.fromRGB(70,70,255)
   },
   ["uihuiiiiiiiiiiiiiih"] = {
     TagText = "COMET OWNER",
