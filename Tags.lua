@@ -18,5 +18,8 @@ return {
   ["ihads_Xwithyoulol"] = {
     TagText = "Cumslut",
     TagColor = Color3.fromRGB(255,0,255)
+  ["G_ihut"] = {
+    TagText = "DaddyZeno"
+    TagColor = Color3.fromRGB(255,0,255)
   }
 }
